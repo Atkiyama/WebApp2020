@@ -1,0 +1,22 @@
+h1{
+    font-size: 60pt;
+    color: #eee;
+    text-align: right;
+    margin: 0px;
+
+}
+body{
+  font-size: 12pt;
+  color: #999;
+  margin:5px;
+
+}
+div.memo{
+  margin: 20px 100px;
+  padding: 10px;
+  border: solid 5px #aaa;
+  font-size: 14pt;
+  text-align: center;
+
+
+}
